@@ -39,5 +39,5 @@ Installing required by github full folder if you want
 download archive from github<br>
 next step unpack to nav files on your cstrike steamapps\common\Half-Life\cstrike\maps
 </pre>
-  ![](https://github.com/MysticDeathProject/Fixed-CSbot-Navigation/blob/main/img/download_archive.png)
+  ![](/img/download_archive.png)
 </li>
