@@ -27,7 +27,7 @@ in archive we have navigation test_gm.nav and they have problem with optimizatio
 <li>bugfix</li>
 </ul>
 
-##### Checking build environment (Debian / Ubuntu)
+##### Checking build
 
 <details>
 <summary>Installing</summary>
@@ -36,8 +36,8 @@ in archive we have navigation test_gm.nav and they have problem with optimizatio
 <li>
 Installing required by github full folder if you want
 <pre>
-download archive from github<br>
+<br>download archive from github</br>
 next step unpack to nav files on your cstrike steamapps\common\Half-Life\cstrike\maps
 </pre>
-  ![](/img/download_archive.png)
 </li>
+</ul>
