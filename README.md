@@ -16,6 +16,7 @@ in archive we have navigation test_gm.nav and they have problem with optimizatio
 | Map                               | Default size | fixed size | bugfix | Description |
 | :--------------------------------- | :-----: | :-: | :----------: | :--------------------------------------------- |
 | test_gm.nav                      | 6.80 MB autonav | still waiting | still waiting | still waiting |
+| zm_houses.nav                      | 139 KB autonav | 116 KB fixed | more fixed bugs | zm_houses critical fixed bugs |
 | Total size navigations in archive | 2.06 GB autonav | 705 MB fixed | have small fix | removed more bad maps where impossible to fix it<br>removed deathrun_ ; surf_ ; kz_; hns_; BB_</br>|
 </details>
 
