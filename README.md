@@ -13,7 +13,7 @@ I will try to refine and optimize the bots and improve their quality and perform
 | Map                               | Default size | fixed size | bugfix | Description |
 | :--------------------------------- | :-----: | :-: | :----------: | :--------------------------------------------- |
 | [zm_houses.nav](navigations/zm_houses.nav)                     | 0 KB autonav | 116 KB fixed | more fixed bugs | zm_houses critical fixed bugs |
-| [35hp_2.nav](navigations/35hp_2.nav)                     | 1 KB autonav | 183 KB fixed | fixed areas | fixed water area and fix stuck area |
+| [35hp_2.nav](navigations/35hp_2.nav)                     | 1 KB autonav | 183 KB fixed | fixed areas | fixed water area |
 | Total size navigations in archive | 2.06 GB autonav | 705 MB fixed | have small fix | removed more bad maps where impossible to fix it<br>removed deathrun_ ; surf_ ; kz_; hns_; BB_</br>|
 </details>
 
