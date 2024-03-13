@@ -10,11 +10,12 @@ I will try to refine and optimize the bots and improve their quality and perform
 <details>
 <summary>Check map</summary>
 
-| Map                               | Default size | fixed size | bugfix | Description |
-| :--------------------------------- | :-----: | :-: | :----------: | :--------------------------------------------- |
-| [zm_houses.nav](navigations/zm_houses.nav)                     | 0 KB autonav | 116 KB fixed | more fixed bugs | zm_houses critical fixed bugs |
-| [35hp_2.nav](navigations/35hp_2.nav)                     | 1 KB autonav | 183 KB fixed | fixed areas | fixed water area |
-| Total size navigations in archive | 2.06 GB autonav | 705 MB fixed | have small fix | removed more bad maps where impossible to fix it<br>removed deathrun_ ; surf_ ; kz_; hns_; BB_</br>|
+| Map                               | size | bugfix | Description |
+| :--------------------------------- | :-: | :----------: | :--------------------------------------------- |
+| [zm_houses.nav](navigations/zm_houses.nav) | 116 KB | more fixed bugs | zm_houses critical fixed bugs |
+| [35hp_2.nav](navigations/35hp_2.nav)       | 183 KB | fixed areas | fixed water area |
+| Total size navigations in archive | 1.78 GB | have small fix | removed more bad maps where impossible to fix it<br>removed deathrun_ ; surf_ ; kz_; hns_; BB_</br>|
+| 705 MB - 2023 year | 1.78 GB - 2024 pack | waiting | :--------------------------------------------- |
 </details>
 
 
