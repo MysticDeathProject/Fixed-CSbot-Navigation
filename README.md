@@ -14,8 +14,9 @@ I will try to refine and optimize the bots and improve their quality and perform
 | :--------------------------------- | :-: | :----------: | :--------------------------------------------- |
 | [zm_houses.nav](navigations/zm_houses.nav) | 116 KB | more fixed bugs | zm_houses critical fixed bugs |
 | [35hp_2.nav](navigations/35hp_2.nav)       | 183 KB | fixed areas | fixed water area |
+| [zm_dust2_final.nav](navigations/zm_dust2_final.nav)| 536 KB | fixed areas | added new nav zones |
 | Total size navigations in archive | 1.78 GB | have small fix | removed more bad maps where impossible to fix it<br>removed deathrun_ ; surf_ ; kz_; hns_; BB_</br>|
-| 705 MB - 2023 year | 1.78 GB - 2024 pack | waiting | :--------------------------------------------- |
+| 705 MB - 2023 year | 1.78 GB - 2024 pack | waiting | waiting critical bugs |
 </details>
 
 
